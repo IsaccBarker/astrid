@@ -1,0 +1,8 @@
+---
+files:
+  - path: "{{HOME}}/Developer/greatness/houses/astrid"
+    tag: ""
+    scripts:
+      - "{{HOME}}/.greatness/scripts/astrid.rhai"
+    encrypted: false
+requires: ~
